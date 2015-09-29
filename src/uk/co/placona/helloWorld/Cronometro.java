@@ -1,3 +1,5 @@
+package uk.co.placona.helloWorld;
+
 public class Cronometro {
 
 	private int cont;
